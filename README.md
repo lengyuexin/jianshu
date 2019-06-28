@@ -3,7 +3,7 @@
 
 ## 运行
 
-* npm start
+* yarn start
 
 ## 项目说明
 
